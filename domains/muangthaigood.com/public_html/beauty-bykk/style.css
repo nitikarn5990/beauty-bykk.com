@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body{ padding:0; margin:0; background: url(../www.beauty-bykk.com/images/bg.jpg) left top repeat; font:normal 13px Arial, Helvetica, sans-serif; color:#3f4240;}
+img{ border:0;}
+h1{color:#cd426c; font:14px normal Arial, Helvetica, sans-serif; text-transform:uppercase;}
+hr{ border-bottom:1px dashed #cd426c; border-left:none; border-right:none; border-top:none;}
+#container{ width:935px; margin:0 auto; padding:0; background:#ffb7ce;}
+#imgslide{ width:100%; margin:0; padding:0;}
+.logo{ position: absolute; z-index:1; margin:20px 0 0 10px;}
+.shoppingcart{float:right; position: relative; z-index:1; margin:350px 10px 0 0;}
+.slide{position: absolute; width:935px; z-index:0; padding:0; margin:0; clear:both;}
+.clear{ clear:both;}
+#menu{ clear:both; margin:50px auto 10px auto; padding:0; background:url(www.beauty-bykk.com/images/bgmenu.png) center top no-repeat; width:539px; height:54px; text-align:center;}
+#menu ul{list-style:none; padding:10px 0 0 20px; margin:0 auto; text-align:center; font: normal 16px Arial, Helvetica, sans-serif; }
+#menu li{display:block; float:left; padding:5px 20px; margin:0;}
+#menu li a{color:#000; text-decoration: none;}
+#menu li a:hover{color:#f90808; text-decoration: none;}
+#content{ padding:10px 0; margin:0 auto; width:915px;}
+.contentleft{ float:left; width:720px;}
+.contentleft span{ color:#cd426c;}
+.contentleft ul{list-style:none; padding:10px 0 0 20px; margin:0 auto; text-align:center; font: normal 16px Arial, Helvetica, sans-serif; }
+.contentleft li{display:block; float:left; width:227px; padding:5px 2px; margin:0; background:url(images/bgproducts.jpg) left top no-repeat; height:205px;}
+.imgproducts{ padding:15px 0 0 0; margin: auto;}
+.txtproducts{float:left; width:720px; margin:0; padding:10px 0;}
+.txtproductssize{width:227px; padding:5px 5px; margin:0; float:left; text-align:center; font:13px bold Arial, Helvetica, sans-serif; color:#cd426c;}
+.txtproductssize a{color:#cd426c; text-decoration:none;}
+.txtproductssize a:hover{color:#000; text-decoration:none;}
+.contentright{ float:right; width:188px;}
+.bgboxmiddle{ background:url(images/box-right_03.jpg) left top repeat-y; width:188px; margin:0; padding:0;}
+.bgboxmiddle p{ margin:10px 15px; padding:0;}
+#footer{ width:935px; clear:both; margin:0 auto; padding:10px 0; text-align:center;}
