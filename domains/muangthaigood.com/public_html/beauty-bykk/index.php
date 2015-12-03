@@ -25,7 +25,7 @@ include_once($_SERVER["DOCUMENT_ROOT"] . '/lib/application.php');
 
                             </head>
                             <body>
-                                <style>
+                                <style> 
                                     .cssmenu ul li:first-child a {
                                         border-top-left-radius: 10px;
                                         border-top-right-radius:  10px;
