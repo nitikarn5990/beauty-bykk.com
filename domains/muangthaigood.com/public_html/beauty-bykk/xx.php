@@ -11,10 +11,7 @@ echo "boomsss1";
 echo "boomsss1";
 echo "boomsss1";
 
+$xx = 1;
 
 
-echo "boomsss1";
 
-   
-echo "boomsss1";
-echo "boomsss1"; echo "boomsss1"; 
